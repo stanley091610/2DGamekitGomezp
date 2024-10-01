@@ -45,6 +45,12 @@ EditorBuildSettings:
     path: 
     guid: 2f940f82585e18b42b0512a994a12502
   - enabled: 1
-    path: Assets/NewScene.unity
+    path: 
     guid: a341347ecfade124f817cac8ea56a209
+  - enabled: 1
+    path: Assets/NewScene.unity
+    guid: 589788d842d6da4409e6d6f4b7c49537
+  - enabled: 1
+    path: Assets/stanley1007.unity
+    guid: 65bbccd834079a14ba46ba58c90ee327
   m_configObjects: {}
